@@ -1,3 +1,9 @@
+yelp (42.Policorp-2) stable; urgency=medium
+
+  * added  tag NoDisplay=true in yelp.desktop
+
+ -- Edson Juliano Drosdeck <edson@policorp.com>  Thu, 06 Mar 2025 15:08:29 +0000
+
 yelp (42.2-2) unstable; urgency=medium
 
   * Stop using debian/control.in and dh_gnome_clean
