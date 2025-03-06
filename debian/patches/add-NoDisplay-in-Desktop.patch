@@ -1,0 +1,12 @@
+Index: policorp/yelp.desktop.in
+===================================================================
+--- policorp.orig/yelp.desktop.in
++++ policorp/yelp.desktop.in
+@@ -9,6 +9,7 @@ Exec=yelp %u
+ Icon=org.gnome.Yelp
+ StartupNotify=true
+ Terminal=false
++NoDisplay=true
+ Type=Application
+ Categories=GNOME;GTK;Core;Documentation;Utility;
+ MimeType=x-scheme-handler/ghelp;x-scheme-handler/help;x-scheme-handler/info;x-scheme-handler/man;
